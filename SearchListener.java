@@ -4,7 +4,7 @@ import java.awt.event.ActionListener;
 import java.sql.SQLException;
 
 /**
- * The ByCourseListener class of GolfLog calls on the display holes method from the actions class.
+ * The SearchListener class of GolfLog calls on the search method from the actions class.
  * 
  * @author Bryce
  *
